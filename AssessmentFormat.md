@@ -3,6 +3,7 @@
 ## Enter Name Of Category (Technical/Professional)
 
 ### Assessment Key
+
 * **N** = None
 * **I** = Inadequate
 * **A** = Adequate
@@ -20,7 +21,7 @@ Detailed paragraph describing the subcategory.
   * **G**
   * **E**
 
-# Other Useful Markdown Syntax
+## Other Useful Markdown Syntax
 
 * Links: [MarkdownGuide](https://www.markdownguide.org/basic-syntax/)
 * Bold Text: **Bold** or __Bold__
