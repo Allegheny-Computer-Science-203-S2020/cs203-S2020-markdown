@@ -10,7 +10,7 @@ Rules for Writing Correct Markdown in Technical Writing for Computer Science 203
 * Commit message should describe the reason for change
 * Commit message should not have period in the end
 
-For more information about the commit message guidelines please, see the link: [link](https://gist.github.com/robertpainsi/b632364184e70900af4ab688decf6f53)
+For more information about the commit message guidelines please, see the [link](https://gist.github.com/robertpainsi/b632364184e70900af4ab688decf6f53)
 
 ## Other Useful Markdown Syntax
 
