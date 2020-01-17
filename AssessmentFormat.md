@@ -4,19 +4,19 @@
 
 ### Assessment Key
 
-* **N** = None
-* **I** = Inadequate
-* **A** = Adequate
-* **G** = Good
-* **E** = Excellent
+ * :disappointed: = None
+ * :confused: = Inadequate
+ * :neutral_face: = Adequate
+ * :smiley: = Good
+ * :sunglasses: = Excellent
 
 ### Subcategory Title
 
 Detailed paragraph describing the subcategory.
 
 * Assessment guideline for subcategory.
-  * **N**
-  * **I**
-  * **A**
-  * **G**
-  * **E**
+  * :disappointed:
+  * :confused:
+  * :neutral_face:
+  * :smiley:
+  * :sunglasses:
