@@ -15,9 +15,3 @@ Detailed paragraph describing the category.
     * Enter agreed upon rules
     * Enter agreed upon rules
     * Enter agreed upon rules
-
-## Other Useful Markdown Syntax
-
-* Links: [MarkdownGuide](https://www.markdownguide.org/basic-syntax/)
-* Bold Text: **Bold** or __Bold__
-* Italic Text: *Italic* or _Italic_
