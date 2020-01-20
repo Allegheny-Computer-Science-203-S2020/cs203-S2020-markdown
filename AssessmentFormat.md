@@ -15,8 +15,8 @@
 Detailed paragraph describing the subcategory.
 
 * Assessment guideline for subcategory.
-  * :disappointed:
-  * :confused:
-  * :neutral_face:
-  * :smiley:
-  * :sunglasses:
+  * :disappointed: =
+  * :confused: =
+  * :neutral_face: =
+  * :smiley: =
+  * :sunglasses: =
