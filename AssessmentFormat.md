@@ -12,8 +12,6 @@
 
 ### Subcategory Title
 
-Detailed paragraph describing the subcategory.
-
 * Assessment guideline for subcategory.
   * :disappointed: =
   * :confused: =
