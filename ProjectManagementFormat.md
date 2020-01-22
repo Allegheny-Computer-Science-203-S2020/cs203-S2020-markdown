@@ -1,6 +1,7 @@
 # Project Management Guide
 
 * How will you inventory the skills of team members to determine who is suited for specific tasks?
+
 Paragraph, 3-5 sentences.
 
 * How will you divide the entire team into sub-teams assigned to complete specific tasks?
